@@ -1,6 +1,0 @@
-user registeration and login -A
-showing dashboard based on values from database(when user logs in only!! not done 24x7) -A
-storing and reading from database
-modify server.py code to run as web app using flask
-set up aws rds and other services
-add note on possible ml features of system
