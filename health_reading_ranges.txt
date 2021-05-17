@@ -1,0 +1,7 @@
+tachycardia		hr>(220 -age of person) bpm
+bradycardia		hr<40 bpm
+hypoxemia		blood_oxygen_level<60%
+hypothermia		body_temperature<35 degrees
+hyperthermia		bodu_temperature>42 degrees
+hypotension
+hypertension
